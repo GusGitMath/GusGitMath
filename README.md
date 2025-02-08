@@ -15,6 +15,8 @@ Hello! I'm Gassan, an AI Engineer at Lowe's with a deep passion for mathematics,
 Professionally, I've transitioned from my role as an AI Research Engineer at AIMdyn Inc., where I developed Koopman-based machine learning models for autonomous system learning, to my current position as an AI Engineer at Lowe's. Here, I apply my expertise in AI and machine learning to drive innovation and efficiency.
 Beyond my professional work, I actively participate in data science competitions on Kaggle and run a YouTube channel, 'Math & Physics Fun with Gus', where I share insights on complex mathematical theories and data science concepts.
 With my background in physics and data science, I'm constantly seeking new challenges to apply my skills in solving complex problems and advancing the field of AI and machine learning.
+
+    Old GitHub GusLovesMath
 </p>
 
 <!-- <br>
